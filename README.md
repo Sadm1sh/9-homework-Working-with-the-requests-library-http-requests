@@ -1,7 +1,7 @@
 Задача №1
 
 Кто самый умный супергерой?
-Есть (https://akabab.github.io/superhero-api/api/)API по информации о супергероях с информацией по всем супергероям. Нужно определить кто самый умный(intelligence) из трех супергероев- Hulk, Captain America, Thanos.
+Есть (https://akabab.github.io/superhero-api/api/) API по информации о супергероях с информацией по всем супергероям. Нужно определить кто самый умный(intelligence) из трех супергероев- Hulk, Captain America, Thanos.
 
 Задача №2
 
